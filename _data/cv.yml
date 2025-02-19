@@ -14,6 +14,12 @@
     - title: Solvency II  & IFRS 17
     - title: General Insurance
     - title: Actuarial Modeling
+
+- title: Exams Cleared
+  type: map
+  contents:
+    - name: Core Principles
+      value: CB1 
     
 - title: Education
   type: time_table
@@ -23,8 +29,3 @@
       year: 2017 - 2021
       Grade : 7.71 CGPA
       
- - title: Exams Cleared
-  type: time_table
-  contents:
-    - title: CB1   
-
