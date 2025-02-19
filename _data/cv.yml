@@ -13,6 +13,7 @@
   contents:
     - title: Solvency II  & IFRS 17
     - title: General Insurance
+    - title: Actuarial Modeling
     
 - title: Education
   type: time_table
@@ -21,8 +22,8 @@
       institution: SSN College of Engineering
       year: 2017 - 2021
       Grade : 7.71 CGPA
-   
-  - title: Exams cleared
+      
+ - title: Exams Cleared
   type: list
   contents:
-    - <u>Core Principles:</u> CB1,
+    - <u>Core Principles:</u> CB1
