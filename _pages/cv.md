@@ -1,9 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Resume
 nav: true
-nav_order: 5
-cv_pdf: Riya_Raju_Actuarial_Analyst_one pager.pdf # you can also use external links here
-
+nav_order: 2
+cv_pdf: Riya_Raju_Actuarial_Analyst_one pager.pdf
 ---
