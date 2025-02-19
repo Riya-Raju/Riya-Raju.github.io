@@ -1,0 +1,24 @@
+{
+  "General Information": {
+    "name": "Riya Raju",
+    "label": "Senior Analyst - Actuarial",
+    "email": "riyaraju2013@gmail.com"
+  },
+  "Current Place of work": [
+    {
+      "name": "AXA Global Business Services",
+      "position": "Senior Analyst-Actuarial"
+    }
+  ],
+  "Education": [
+    {
+      "institution": "SSN College of Engineering",
+      "location": "Chennai",
+      "area": "Computer Science Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2017-01-01",
+      "endDate": "2021-01-01",
+      "score": "7.71/10"
+    }
+  ]
+}
