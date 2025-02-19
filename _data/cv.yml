@@ -8,12 +8,11 @@
     - name: E-mail ID
       value: riyaraju2013@gmail.com
 
-- title: Academic Interests
+- title: Interests
   type: time_table
   contents:
-    - title: Solvency II
+    - title: Solvency II  & IFRS 17
     - title: General Insurance
-    - title: IFRS 17
     
 - title: Education
   type: time_table
@@ -26,4 +25,4 @@
   - title: Exams cleared
   type: list
   contents:
-    - <u>Core Principles</u> CB1
+    - <u>Core Principles: </u> CB1
