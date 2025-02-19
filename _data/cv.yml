@@ -23,4 +23,10 @@
       year: 2017 - 2021
       Grade : 7.71 CGPA
    
-        
+  - title: Exams cleared
+  type: list
+  contents:
+    - <u>Core Principles</u> CB1
+    - <u>Core Practices</u> 
+    - <u>Specialist Principle</u> 
+    - <u>Specialist Advanced</u>
