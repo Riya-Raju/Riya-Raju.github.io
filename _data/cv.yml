@@ -24,6 +24,9 @@
       Grade : 7.71 CGPA
       
  - title: Exams Cleared
-  type: list
+  type: timetable
   contents:
-    - <u>Core Principles:</u> CB1
+   - title : Core Principles: CB1,
+   - title : Core Practices: 
+   - title : Specialist Principles: 
+   - title : Specialist Advanced: 
