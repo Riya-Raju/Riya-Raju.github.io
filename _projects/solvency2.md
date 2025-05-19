@@ -15,5 +15,14 @@ Solvency refers to a company's ability to meet its long-term financial obligatio
 Solvency 2 follows a prudent person principle that is where insurance / reinsurance companies investing in assets whose risks they can understand, monitor, manage while bearing best interest of the policyholders in mind all the while ensuring overall security, liquidity, profitability of the the portfolio. 
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/solvency2.jpg" title="balance sheet" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Solvency 2 Balance sheet that is prepared for submission and public disclosure. 
+</div>
+
 
 
