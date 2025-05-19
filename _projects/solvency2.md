@@ -2,7 +2,7 @@
 layout: page
 title: Solvency II
 description: Solvency II Technical Provision calculation and standard formula
-img: assets/img/solvency2.jpg
+img: assets/img/balancesheet.jpg
 importance: 1
 category: projects 
 ---
@@ -17,7 +17,7 @@ Solvency 2 follows a prudent person principle that is where insurance / reinsura
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/solvency2.jpg" title="balance sheet" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/balancesheet.jpg" title="balance sheet" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
