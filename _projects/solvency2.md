@@ -1,3 +1,11 @@
+---
+layout: page
+title: Solvency II
+description: Solvency II Technical Provision calculation and standard formula
+img: assets/img/solvency2.png
+importance: 1
+category: projects 
+---
 
 Solvency 2 is a prudential regulatory framework for the insurance industry within EU. It is a Risk based capital requirement, incentivising risk management.
 
