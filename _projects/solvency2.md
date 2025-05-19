@@ -2,7 +2,7 @@
 layout: page
 title: Solvency II
 description: Solvency II Technical Provision calculation and standard formula
-img: assets/img/solvency2.png
+img: assets/img/solvency2.jpg
 importance: 1
 category: projects 
 ---
